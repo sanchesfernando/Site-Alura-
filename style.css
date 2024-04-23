@@ -15,7 +15,7 @@ body{
 }
 
 .principal {
-    background-image: url("Background.img");  
+    background-image: url(".img/Background.img");  
     
     background-size: contain;
     align-items: center;
