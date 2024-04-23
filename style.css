@@ -15,7 +15,7 @@ body{
 }
 
 .principal {
-    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHOqnR9ui8LVEqgDkuz3W0DohmJ7AjJNlPtcg4mRX4TXpMf_9FP3txipk&s=10");  
+    background-image: url("Background.img");  
     
     background-size: contain;
     align-items: center;
